@@ -23,7 +23,7 @@
 
 * The sixth and seventh problem codes are provided in [p_6.py]() and [p_7.py].
 
-* The assignment and my report are available in [assignment_1.pdf]() [Report.pdf]().
+* The assignment and my report are available in [Assignment_1.pdf]() and [Report.pdf]().
 
 
 
