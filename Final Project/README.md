@@ -35,8 +35,6 @@
 
 * **`Normalization`**
 
-*
-
 * **`Feature Selection`** and **`Dimensionality Reduction`**
     
     -   **`LDA`**
