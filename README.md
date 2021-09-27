@@ -63,8 +63,7 @@ This repository contains my **Machine-Learning** course projects, Hw, and Hands-
 
 ## Final Project
 
-In this project I have implemented  **`Detection Parkinson's Disease`** task utilizing  **`Discriminative`**, **`Generative`**, and **`Ensemble-Learning`** classifiers: *`KNN`**, **`Logistic Regression`**, **`Decision Tree`**, **`SVM`**, **`Radial Basis Functions`**, 
-**`Multilayer Perceptron`**, **`Parzen Window`** and **Bayesian Decision Making**,  **`K-Nearest Neighbors`**  and **Bayesian Decision Making**, and **`Gaussian Mixture Models`** and **Bayesian Decision Making**. Moreove, various pre-processing and dimensionality reduction methods have been investigated:  **`LDA`**, **`ICA`**, **`PCA`**, **`Sequential Backward Feature Elimination`**, and  **`Autoencoders`**.
+In this project I have implemented  **`Detection Parkinson's Disease`** task utilizing  **`Discriminative`**, **`Generative`**, and **`Ensemble-Learning`** classifiers.
 
 
 
@@ -78,7 +77,7 @@ In this project I have implemented  **`Detection Parkinson's Disease`** task uti
 
 :three:  This assignment is mainly focused on **`Gaussian Mixture Model`**, **`Expectation Maximization`**, **`Maximum Likelihood Estimation`**, and **`Maximum a Posteriori Estimation`**.
 
-:four: This assignment is mainly focused on **`Non-Parametric Density Estimation`**, **`KNN`**, **`Parzen Window`**, **`Feature Selection`**, **`Forward Selection`**, **`Backward Elimination`**, **`Heuristic Search`**, **`PCA`**, **`LDA`**: **`Fisher Linear Discriminant`**, and **`ICA`**.
+:four: This assignment is mainly focused on **`Non-Parametric Density Estimation`**, **`Feature Selection`**, **`Forward Selection`**, and **`Dimensionality Reduction`**.
 
 :five: This assignment is mainly focused on **`Support Vector Machines`**(**`SVM`**).
 
