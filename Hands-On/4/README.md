@@ -2,7 +2,8 @@
 
 
 ## Topics
-    This section is mainly focused on the following topics:
+
+This section is mainly focused on the following topics:
 
 
 * **`Maximum Likelihood`**
@@ -19,4 +20,4 @@
 
 ## Codes
 
-Codes are provided in [HO_4](https://github.com/ARokni/Machine-Learning/blob/main/Hands-On/3/HO_3.ipynb) notebook.
+Codes are provided in [HO_4](https://github.com/ARokni/Machine-Learning/blob/main/Hands-On/4/HO_4.ipynb) notebook.
