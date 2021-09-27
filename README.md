@@ -1,6 +1,6 @@
 # Machine-Learning
 
-## This repository contains my **Machine-Learning** course projects, Hw, and Hands-on as part of this course lectured by [Prof. Babak N Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en) and [Mohammad-Reza A. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en) at the **University of Tehran**.
+This repository contains my **Machine-Learning** course projects, Hw, and Hands-on as part of this course lectured by [Prof. Babak N Araabi](https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en) and [Mohammad-Reza A. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en) at the **University of Tehran**.
 
 ## Topics
 * **Introduction and Basic Concepts**
