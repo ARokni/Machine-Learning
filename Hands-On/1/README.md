@@ -1,6 +1,6 @@
 # First Hands-on
 
-# Topics
+## Topics
 
 My first hands-on is mainly focused on **`Linear Regression`**.
 
