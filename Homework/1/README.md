@@ -14,7 +14,7 @@
 
 
 
-## Codes and report
+## Codes and Report
 * Seventh and sixth problems of this homework has been implemented utilizing **`python`** codes.
 
 * In problem six, I have implemented a python code in order to **`classify`** images of two football teams, Chelsear and Manchester united, based on the average colors of all pixes an image.
