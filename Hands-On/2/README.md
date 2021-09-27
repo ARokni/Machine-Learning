@@ -7,4 +7,4 @@
 
 ## Codes
 
-Codes are provided in [HO_2]() notebook.
+Codes are provided in [HO_2](https://github.com/ARokni/Machine-Learning/blob/main/Hands-On/2/Ho_2.ipynb) notebook.
