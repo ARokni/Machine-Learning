@@ -53,4 +53,4 @@
 
 ## Codes and Report
 
-* Codes are available in [Report]() notebook.
+* Codes are available in [Codes](https://github.com/ARokni/Machine-Learning/blob/main/Final%20Project/code.ipynb) notebook.
