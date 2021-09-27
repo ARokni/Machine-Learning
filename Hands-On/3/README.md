@@ -8,7 +8,7 @@ This section is mainly focused on building a predictive model to figure out the 
     
     - **`Cleaning Data`**
 
-    - **`Imbalanced Data`** problem
+    - **`Imbalanced Classification`** problem
 
     - **`Data Visualization`**
 
@@ -26,4 +26,4 @@ This section is mainly focused on building a predictive model to figure out the 
 
 ## Codes
 
-Codes are provided in [HO_3](https://github.com/ARokni/Machine-Learning/blob/main/Hands-On/3/Ho_3.ipynb) notebook.
+Codes are provided in [HO_3](https://github.com/ARokni/Machine-Learning/blob/main/Hands-On/3/HO_3.ipynb) notebook.
