@@ -1,4 +1,4 @@
-# First Hands-on
+# Third Hands-on
 
 This section is mainly focused on building a predictive model to figure out the chance of survival for each passanger based on particular features.
 
