@@ -21,9 +21,9 @@
 
 * In the problem seven, I have employed polynomial regressors in order to provide an approximation for $$cos(2 \pi x)$$ function. Moreover, by applying polynomials of order 4, 8, 12, and 20, the underfitting and overfitting have been investigated as well.
 
-* The sixth and seventh problem codes are provided in [p_6](https://github.com/ARokni/Machine-Learning/blob/main/1/Problem%206/P_6.py) and [p_7](https://github.com/ARokni/Machine-Learning/blob/main/1/Problem%207/p_7.py).
+* The sixth and seventh problem codes are provided in [p_6](https://github.com/ARokni/Machine-Learning/blob/main/Homework/1/Problem%206/P_6.py) and [p_7](https://github.com/ARokni/Machine-Learning/blob/main/Homework/1/Problem%207/p_7.py).
 
-* The assignment and my report are available in [Files](https://github.com/ARokni/Machine-Learning/tree/main/1/Files).
+* The assignment and my report are available in [Files](https://github.com/ARokni/Machine-Learning/tree/main/Homework/1/Files).
 
 
 
