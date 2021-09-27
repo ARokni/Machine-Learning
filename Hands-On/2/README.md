@@ -1,8 +1,8 @@
 # First Hands-on
 
-# Topics
+## Topics
 
- This section is mainly focused on  implemeting **`Gaussian Naive Bayes`**, **`Logistic Regression`**, and **`Nearest Centroid`** on **`Mnist`** dataset utilizing **`python`** libraries (**`sklearn`**).
+ This section is mainly focused on  implemeting **`Gaussian Naive Bayes`**, **`Logistic Regression`**, and **`Nearest Centroid`** on **`Mnist`** dataset utilizing **`python`** libraries (**`sklearn`**). Moreover, **`ROC`** curve has been introduced in this notebook as an evaluation for discriminabily of data.
 
 
 ## Codes
