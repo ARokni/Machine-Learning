@@ -23,7 +23,7 @@
 
 The codes are provided in [P_8](https://github.com/ARokni/Machine-Learning/blob/main/Homework/3/Problem%208/P8.ipynb) notebook.
 
-* In the nineth problem, I have implemented **Gaussian Mixture Model** utilizing **numpy** on [**Moons**](https://github.com/ARokni/Machine-Learning/blob/main/Homework/3/Problem%209/moons.csv) to estimate the distribution of each class. The codes are provided in [P_9](https://github.com/ARokni/Machine-Learning/blob/main/Homework/3/Problem%209/P9.ipynb) notebook.
+* In the nineth problem, I have implemented **`Density Estimation`** task utilizing **Gaussian Mixture Model** via **numpy** on [**Moons**](https://github.com/ARokni/Machine-Learning/blob/main/Homework/3/Problem%209/moons.csv). The codes are provided in [P_9](https://github.com/ARokni/Machine-Learning/blob/main/Homework/3/Problem%209/P9.ipynb) notebook.
 
 
 * The assignment and my report are available in [Files](https://github.com/ARokni/Machine-Learning/tree/main/Homework/2/Files).
